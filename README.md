@@ -1,12 +1,10 @@
-# GitStudio
+# Nome do projeto
 
-![Repo Size](https://img.shields.io/github/repo-size/Arthursottile/GitStudio)
-![Languages](https://img.shields.io/github/languages/count/Arthursottile/GitStudio)
-![Forks](https://img.shields.io/github/forks/Arthursottile/GitStudio?style=social)
-![Issues](https://img.shields.io/github/issues/Arthursottile/GitStudio)
-![Pull Requests](https://img.shields.io/github/issues-pr/Arthursottile/GitStudio)
-
-> Sistema desenvolvido para a disciplina de Programação Orientada a Objetos 2 – UTFPR CP.
+![GitHub repo size](https://img.shields.io/github/repo-size/Arthursottile/GitStudio)
+![GitHub language count](https://img.shields.io/github/languages/count/Arthursottile/GitStudio)
+![GitHub forks](https://img.shields.io/github/forks/Arthursottile/GitStudio)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Arthursottile/GitStudio)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Arthursottile/GitStudio)
 
 <img src="imagem.png" alt="Exemplo imagem">
 
